@@ -1,0 +1,19 @@
+{
+  "name_corrections": {
+    "Adekunle": ["ade kunle", "add a kunle", "hardy kunle"],
+    "Adeboye": ["add a boy", "ade boye"],
+    "Oyinlola": ["oh in lola", "oyin lola"]
+  },
+  "phrase_mappings": {
+    "E ku aaro": "Good morning",
+    "E se": "Thank you",
+    "Olorun": "God",
+    "Oluwa": "Lord",
+    "Hallelujah": ["halleluyah", "alleluia", "holly lujah"]
+  },
+  "scripture_formatting": {
+    "gen": "Genesis",
+    "ps": "Psalms",
+    "john": "John"
+  }
+}
